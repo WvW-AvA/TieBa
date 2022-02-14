@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tieba_backend.dir/main.cpp.o CMakeFiles/tieba_backend.dir/model/model.cpp.o -o tieba_backend  -ljsoncpp 

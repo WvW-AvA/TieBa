@@ -1,0 +1,3 @@
+/home/mua_mua_/backend/tieba/build/CMakeFiles/tieba_backend.dir
+/home/mua_mua_/backend/tieba/build/CMakeFiles/edit_cache.dir
+/home/mua_mua_/backend/tieba/build/CMakeFiles/rebuild_cache.dir
