@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/mua_mua_/backend/tieba/main.cpp" "CMakeFiles/tieba_backend.dir/main.cpp.o" "gcc" "CMakeFiles/tieba_backend.dir/main.cpp.o.d"
-  "/home/mua_mua_/backend/tieba/model/model.cpp" "CMakeFiles/tieba_backend.dir/model/model.cpp.o" "gcc" "CMakeFiles/tieba_backend.dir/model/model.cpp.o.d"
+  "/home/mua_mua_/backend/TieBa/main.cpp" "CMakeFiles/tieba_backend.dir/main.cpp.o" "gcc" "CMakeFiles/tieba_backend.dir/main.cpp.o.d"
+  "/home/mua_mua_/backend/TieBa/model/model.cpp" "CMakeFiles/tieba_backend.dir/model/model.cpp.o" "gcc" "CMakeFiles/tieba_backend.dir/model/model.cpp.o.d"
   )
 
 # Targets to which this target links.

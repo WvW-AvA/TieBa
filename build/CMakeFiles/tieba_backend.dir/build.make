@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/mua_mua_/backend/tieba
+CMAKE_SOURCE_DIR = /home/mua_mua_/backend/TieBa
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/mua_mua_/backend/tieba/build
+CMAKE_BINARY_DIR = /home/mua_mua_/backend/TieBa/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/tieba_backend.dir/depend.make
@@ -72,30 +72,30 @@ include CMakeFiles/tieba_backend.dir/flags.make
 CMakeFiles/tieba_backend.dir/main.cpp.o: CMakeFiles/tieba_backend.dir/flags.make
 CMakeFiles/tieba_backend.dir/main.cpp.o: ../main.cpp
 CMakeFiles/tieba_backend.dir/main.cpp.o: CMakeFiles/tieba_backend.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mua_mua_/backend/tieba/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tieba_backend.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tieba_backend.dir/main.cpp.o -MF CMakeFiles/tieba_backend.dir/main.cpp.o.d -o CMakeFiles/tieba_backend.dir/main.cpp.o -c /home/mua_mua_/backend/tieba/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mua_mua_/backend/TieBa/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tieba_backend.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tieba_backend.dir/main.cpp.o -MF CMakeFiles/tieba_backend.dir/main.cpp.o.d -o CMakeFiles/tieba_backend.dir/main.cpp.o -c /home/mua_mua_/backend/TieBa/main.cpp
 
 CMakeFiles/tieba_backend.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tieba_backend.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mua_mua_/backend/tieba/main.cpp > CMakeFiles/tieba_backend.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mua_mua_/backend/TieBa/main.cpp > CMakeFiles/tieba_backend.dir/main.cpp.i
 
 CMakeFiles/tieba_backend.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tieba_backend.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mua_mua_/backend/tieba/main.cpp -o CMakeFiles/tieba_backend.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mua_mua_/backend/TieBa/main.cpp -o CMakeFiles/tieba_backend.dir/main.cpp.s
 
 CMakeFiles/tieba_backend.dir/model/model.cpp.o: CMakeFiles/tieba_backend.dir/flags.make
 CMakeFiles/tieba_backend.dir/model/model.cpp.o: ../model/model.cpp
 CMakeFiles/tieba_backend.dir/model/model.cpp.o: CMakeFiles/tieba_backend.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mua_mua_/backend/tieba/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tieba_backend.dir/model/model.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tieba_backend.dir/model/model.cpp.o -MF CMakeFiles/tieba_backend.dir/model/model.cpp.o.d -o CMakeFiles/tieba_backend.dir/model/model.cpp.o -c /home/mua_mua_/backend/tieba/model/model.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mua_mua_/backend/TieBa/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tieba_backend.dir/model/model.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tieba_backend.dir/model/model.cpp.o -MF CMakeFiles/tieba_backend.dir/model/model.cpp.o.d -o CMakeFiles/tieba_backend.dir/model/model.cpp.o -c /home/mua_mua_/backend/TieBa/model/model.cpp
 
 CMakeFiles/tieba_backend.dir/model/model.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tieba_backend.dir/model/model.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mua_mua_/backend/tieba/model/model.cpp > CMakeFiles/tieba_backend.dir/model/model.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mua_mua_/backend/TieBa/model/model.cpp > CMakeFiles/tieba_backend.dir/model/model.cpp.i
 
 CMakeFiles/tieba_backend.dir/model/model.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tieba_backend.dir/model/model.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mua_mua_/backend/tieba/model/model.cpp -o CMakeFiles/tieba_backend.dir/model/model.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mua_mua_/backend/TieBa/model/model.cpp -o CMakeFiles/tieba_backend.dir/model/model.cpp.s
 
 # Object files for target tieba_backend
 tieba_backend_OBJECTS = \
@@ -109,7 +109,7 @@ tieba_backend: CMakeFiles/tieba_backend.dir/main.cpp.o
 tieba_backend: CMakeFiles/tieba_backend.dir/model/model.cpp.o
 tieba_backend: CMakeFiles/tieba_backend.dir/build.make
 tieba_backend: CMakeFiles/tieba_backend.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/mua_mua_/backend/tieba/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable tieba_backend"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/mua_mua_/backend/TieBa/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable tieba_backend"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/tieba_backend.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -121,6 +121,6 @@ CMakeFiles/tieba_backend.dir/clean:
 .PHONY : CMakeFiles/tieba_backend.dir/clean
 
 CMakeFiles/tieba_backend.dir/depend:
-	cd /home/mua_mua_/backend/tieba/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mua_mua_/backend/tieba /home/mua_mua_/backend/tieba /home/mua_mua_/backend/tieba/build /home/mua_mua_/backend/tieba/build /home/mua_mua_/backend/tieba/build/CMakeFiles/tieba_backend.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/mua_mua_/backend/TieBa/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mua_mua_/backend/TieBa /home/mua_mua_/backend/TieBa /home/mua_mua_/backend/TieBa/build /home/mua_mua_/backend/TieBa/build /home/mua_mua_/backend/TieBa/build/CMakeFiles/tieba_backend.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tieba_backend.dir/depend
 

@@ -10,28 +10,28 @@
             "UserID": 34,
             "PostContent": "laborum",
             "PostDate": "2018-08-17",
-            "PostFloor": 46,
+            "PostFloor": 0,
             "PostUpvote": 2,
             "Comments": [
                 {
                     "UserID": 42,
                     "CommentContent": "do in",
                     "CommentDate": "1975-04-20",
-                    "CommentFloor": 15,
+                    "CommentFloor": 0,
                     "CommentUpvote": 1
                 },
                 {
                     "UserID": 100,
                     "CommentContent": "proident",
                     "CommentDate": "1985-12-20",
-                    "CommentFloor": 9,
+                    "CommentFloor": 1,
                     "CommentUpvote": 72
                 },
                 {
                     "UserID": 78,
                     "CommentContent": "cillum",
                     "CommentDate": "2011-01-16",
-                    "CommentFloor": 10,
+                    "CommentFloor": 2,
                     "CommentUpvote": 23
                 }
             ]
@@ -40,7 +40,7 @@
             "UserID": 38,
             "PostContent": "adipisicing cupidatat",
             "PostDate": "2011-12-31",
-            "PostFloor": 17,
+            "PostFloor": 1,
             "PostUpvote": 47,
             "Comments": [
                 {
@@ -56,7 +56,7 @@
             "UserID": 79,
             "PostContent": "fugiat ad sit eiusmod",
             "PostDate": "2011-08-18",
-            "PostFloor": 11,
+            "PostFloor": 2,
             "PostUpvote": 5,
             "Comments": [
                 {
@@ -100,7 +100,7 @@
             "UserID": 25,
             "PostContent": "sit ullamco anim ut",
             "PostDate": "1976-06-22",
-            "PostFloor": 25,
+            "PostFloor": 3,
             "PostUpvote": 69,
             "Comments": [
                 {
@@ -137,7 +137,7 @@
             "UserID": 84,
             "PostContent": "elit",
             "PostDate": "2002-12-06",
-            "PostFloor": 74,
+            "PostFloor": 4,
             "PostUpvote": 63,
             "Comments": [
                 {
